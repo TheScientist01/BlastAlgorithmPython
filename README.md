@@ -23,14 +23,14 @@ BLAST is a widely used bioinformatics tool for comparing biological sequences su
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/blast-algorithm-python.git
+   git clone https://github.com/TheScientist01/BlastAlgorithmPython.git
 Change directory:
-   ```bash
-   cd blast-algorithm-python
+
+cd blast-algorithm-python
 
 Run the example:
-   ```bash
-   python blast_algorithm.py
+
+python blast_algorithm.py
 
 **Usage**
 To use the BLAST algorithm, you can follow these steps:
@@ -43,8 +43,7 @@ Customize the scoring system (match, mismatch, and gap penalties) if needed.
 
 Run the script:
 
-   ```bash
-   python blast_algorithm.py
+python blast_algorithm.py
 
 The script will display the aligned sequences and the alignment score.
 
